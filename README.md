@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kotraught
+- 👀 I’m interested in making apps and websites
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate on games
+- 📫 How to reach me: Go to my Twitter @kotraught
